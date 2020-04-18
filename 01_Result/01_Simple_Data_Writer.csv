@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1587066434089,2302,HomePage,200,OK,Users 1-1,text,true,,35260,285,1,1,http://lifecharger.org/look-at-the-other-side/,1123,0,69
+1587066434089,1123,HomePage-0,301,Moved Permanently,Users 1-1,text,true,,965,142,1,1,http://lifecharger.org/look-at-the-other-side,1123,0,69
+1587066435212,1179,HomePage-1,200,OK,Users 1-1,text,true,,34295,143,1,1,http://lifecharger.org/look-at-the-other-side/,1125,0,0
